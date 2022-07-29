@@ -1,5 +1,6 @@
 <head>
   <head>
+    <link rel="stylesheet"href="style.css">
   <title>Anthropology</title>
   </head>
     
@@ -42,7 +43,7 @@ Archaeological anthropology,[5][6] often termed as 'anthropology of the past', s
 </ul>
   <input id="text" />
 <button id="button">comment</button>
-  
+ <script src="script.js"> 
   
 <footer class="c-site-footer">
 </footer>
